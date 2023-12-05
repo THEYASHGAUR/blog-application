@@ -1,0 +1,33 @@
+*{
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 23px;
+    /* background-color: red; */
+}
+.logo {
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: 700;
+
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+
+}
+nav a{
+    text-decoration: none;
+    color: inherit;
+    font-size: larger;
+}
+
+
